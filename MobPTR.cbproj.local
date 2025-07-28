@@ -1,10 +1,25 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
 	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.833,C:\Users\Deneme\Documents\Embarcadero\Studio\Projects\MobPTR.cbproj=C:\Users\Deneme\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.158,=C:\Users\Admin\Desktop\Projelerim\Projects\File1.h</Transaction>
     <Transaction>1899.12.30 00:00:00.000.348,=C:\Users\Deneme\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.823,C:\Users\Deneme\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\Deneme\Documents\Embarcadero\Studio\Projects\MobPTRPCH1.h</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.816,C:\Users\Deneme\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\Deneme\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.833,C:\Users\Deneme\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\Deneme\Documents\Embarcadero\Studio\Projects\MobPTR.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.774,C:\Users\Admin\Desktop\Projelerim\Projects\MemoryFunctions.h=C:\Users\Admin\Desktop\Projelerim\Projects\File1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.823,C:\Users\Deneme\Documents\Embarcadero\Studio\Projects\MobPTRPCH1.h=C:\Users\Deneme\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
     <Transaction>1899.12.30 00:00:00.000.434,=C:\Users\Deneme\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.467,C:\Users\Admin\Desktop\Projelerim\Projects\MemoryFunctions.cpp=C:\Users\Admin\Desktop\Projelerim\Projects\File1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.270,=C:\Users\Admin\Desktop\Projelerim\Projects\File1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.325,=C:\Users\Admin\Desktop\Projelerim\Projects\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.816,C:\Users\Deneme\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\Deneme\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
   </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="MemoryFunctions.cpp"/>
+    <File Path="MemoryFunctions.h"/>
+    <File Path="MobPTR.cpp"/>
+    <File Path="MobPTRPCH1.h"/>
+    <File Path="Unit1.cpp"/>
+    <File Path="Unit1.cpp"/>
+    <File Path="Unit1.dfm"/>
+    <File Path="Unit1.h"/>
+  </ProjectSortOrder>
 </BorlandProject>
